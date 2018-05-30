@@ -57,7 +57,7 @@ Please follow this tutorial to learn how deploy an ASP.NET Core application to I
 
 ### Troubleshooting
 
-We had some problems with ASP.NET Core under IIS. Perhaps the following two tipps might help you:
+We had some problems with ASP.NET Core under IIS. Perhaps the following two tips might help you:
 
 #### HTTP Error 502.5 - Process Failure
 
